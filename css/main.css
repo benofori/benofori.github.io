@@ -13,6 +13,15 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   font-family: 'Passion One', cursive; }
 
+a {
+  text-decoration: none;
+  color: inherit; }
+
+.main-overlay {
+  width: 100vw;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 53, 107, 0.9), rgba(0, 0, 0, 0.9)); }
+
 .content {
   width: 90%;
   margin: 0 auto; }
@@ -21,18 +30,27 @@ header {
   background: #000;
   color: #d5d5d5;
   padding: 1em 0; }
+  header h1 {
+    text-transform: uppercase;
+    text-align: center; }
   header .content {
-    display: flex; }
+    display: flex;
+    flex-wrap: wrap; }
   header .logo {
     margin-right: auto; }
-
-header h1 {
-  text-transform: uppercase;
-  text-align: center; }
-
-.main-overlay {
-  width: 100vw;
-  height: 100%;
-  background: linear-gradient(to right, rgba(0, 53, 107, 0.9), rgba(0, 0, 0, 0.9)); }
+  header nav {
+    display: none;
+    width: 100%;
+    text-align: center;
+    padding: 1em 0; }
+    header nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0; }
+    header nav li {
+      margin-bottom: .75em;
+      font-size: 1.25em; }
+      header nav li:hover {
+        color: #00356b; }
 
 /*# sourceMappingURL=main.css.map */
