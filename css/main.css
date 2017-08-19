@@ -43,6 +43,9 @@ header {
     margin-right: auto; }
   header .menu-bar {
     cursor: pointer; }
+    @media (min-width: 768px) {
+      header .menu-bar {
+        display: none; } }
   header nav {
     display: none;
     width: 100%;
@@ -57,7 +60,14 @@ header {
       font-size: 1.25em; }
       header nav li:hover {
         color: #00356b; }
-        header nav li:hover a {
-          background: #d5d5d5; }
+    @media (min-width: 768px) {
+      header nav {
+        display: block;
+        width: auto;
+        padding: 0; }
+        header nav li {
+          float: left;
+          font-size: 1.15em;
+          margin: 0 .5em; } }
 
 /*# sourceMappingURL=main.css.map */
