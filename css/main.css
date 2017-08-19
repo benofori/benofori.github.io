@@ -1,3 +1,5 @@
+/**** VARIABLES ******/
+/**** GENERAL STYLES ******/
 html, body {
   height: 100%;
   margin: 0;
@@ -26,6 +28,7 @@ a {
   width: 90%;
   margin: 0 auto; }
 
+/******* HEADER STYLES ******/
 header {
   background: #000;
   color: #d5d5d5;
@@ -38,6 +41,8 @@ header {
     flex-wrap: wrap; }
   header .logo {
     margin-right: auto; }
+  header .menu-bar {
+    cursor: pointer; }
   header nav {
     display: none;
     width: 100%;
@@ -52,5 +57,7 @@ header {
       font-size: 1.25em; }
       header nav li:hover {
         color: #00356b; }
+        header nav li:hover a {
+          background: #d5d5d5; }
 
 /*# sourceMappingURL=main.css.map */
