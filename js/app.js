@@ -1,3 +1,3 @@
-// $('.fa-bars').click(function(){
-//     $('.menu').slideToggle();
-// });
+$('.fa-bars').click(function(){
+    $('.menu').slideToggle();
+});

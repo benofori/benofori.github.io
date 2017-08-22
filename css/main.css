@@ -62,7 +62,7 @@ header {
         color: #00356b; }
     @media (min-width: 768px) {
       header nav {
-        display: block;
+        display: block !important;
         width: auto;
         padding: 0; }
         header nav li {
