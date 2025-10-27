@@ -1,0 +1,917 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <!--<title>TheEvent - Bootstrap Event Template</title>-->
+  <title>UXSS2024 - Ultrafast X-ray Summer School at SLAC National Accelerator Laboratory</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <!--<link href="img/favicon.png" rel="icon">-->
+  <link href="img/PULSE_Tree.png" rel="icon">
+  <!--<link href="img/apple-touch-icon.png" rel="apple-touch-icon">-->
+  <link href="img/PULSE_Tree_big.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: TheEvent
+    Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+        <!--<a href="#intro" class="scrollto"><img src="img/logo.png" alt="" title=""></a>-->
+        <a href="#intro" class="scrollto"><img src="img/UXSS_2024_logo.png" alt="" title=""></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#intro">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#speakers">Speakers</a></li>
+          <li><a href="#schedule">Program</a></li>
+          <li><a href="#supporters">Sponsors</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li class="buy-tickets"><a href="#buy-tickets">Register</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+    <div class="intro-container wow fadeIn">
+      <!--<h1 class="mb-4 pb-0">The Annual<br><span>Marketing</span> Conference</h1>
+      <p class="mb-4 pb-0">10-12 December, Downtown Conference Center, New York</p>-->
+	  <div class="row">
+	    <div class="col-lg-12 col-md-12">
+		  <center>
+		    <img src="img/UXSS_2024_logo.png" alt="" title="" class="img-fluid">
+		  </center>
+		</div>
+	  </div>
+      <h1 class="mb-4 pb-0"><span>Ultrafast X-ray Summer School</span></h1>
+      <p class="mb-4 pb-0">June 17 - 20, 2024</p>
+      <!--<a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+        data-autoplay="true"></a>-->
+      <a href="#about" class="about-btn scrollto">About The Event</a>
+    </div>
+  </section>
+
+  <main id="main">
+
+    <!--==========================
+      About Section
+    ============================-->
+    <section id="about" class="section-with-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>About UXSS 2024</h2>
+            <p>UXSS 2024 is a week long program organized by Stanford University's PULSE Institute in collaboration with the 
+            Center for Free-Electron Laser Science at DESY in Hamburg, Germany, and Paul Scherrer Institut (PSI), Switzerland. The goal of UXSS is to disseminate information and train students and post-docs for the new opportunities in ultrafast science using X-ray Free Electron Lasers. Expert scientists will lecture on exciting scientific fields where XFEL sources are making impacts. Beyond the lectures, participants will have the opportunity to work in groups, and to visit the Linac Coherent Light Source (LCLS) beamlines, and to enjoy an exciting boat ride around the scenic golden gate area in San Francisco. Interested participants can also bring their research posters. There will be a poster session with a welcome reception on the first day.<br><br>
+
+<!--           <b>Other than in previous years, we will hold UXSS 2020 completely remotely, due to the corona virus pandemic.
+              Registration is free of charge. Registration for full participants is now closed. However, for access to the lectures, you can still register (see below).</b></p> -->
+              
+              
+          </div>
+          <div class="col-lg-6">
+          
+             <h2> This is our 18th summer school</h2>
+             
+      
+      
+          <table class="table">
+            <tbody>
+              <tr>
+             
+             
+		<td><p>First day of the School, June 17, 2024</p></td>
+		
+              <tr>
+                <td><p>Last day of the School, June 20, 2024</p></td>
+                 </tr>
+            </tbody>
+          </table>
+          </div>
+          </div>
+             
+                      
+             
+                 <h2> Organizers</h2>
+                 
+             <table class="table">
+            <tbody>
+              <tr>
+             
+                <td><p>Chair: Shambhu Ghimire, SLAC (Email: shambhu@slac.stanford.edu)</p></td> 
+              </tr>
+	      <tr>
+		<td><p>Co-Chair: Dominik Oberthuer, CFEL</p></td>
+		
+              <tr>
+                <td><p>Co-Chair: Christoph Bostedt, PSI</p></td>     
+                 
+                 
+                
+                
+  
+              </tr>
+            </tbody>
+          </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!--==========================
+      Speakers Section
+    ============================-->
+    <section id="speakers" class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2>Confirmed Lecturers </h2>
+        </div>
+
+          <div class="row no-gutters">
+        
+	    <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://profiles.stanford.edu/zhirong-huang" target="_blank">
+                  <img src="img/lecturers/zhirong.jpg" alt="Zhirong Huang" width= 250 class="img-fluid">
+                </a>
+                <p>
+	          <font size="5">Zhirong Huang</font><br>
+                  SLAC National Accelerator Laboratory
+                </p>
+	      </center>
+	    </div>          
+
+          <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://physics.uconn.edu/person/nora-berrah/" target="_blank">
+                  <img src="img/lecturers/nora.jpg" alt="Nora Berrah"  width= 250 class="img-fluid">
+                </a>
+                <p>
+	          <font size="5">Nora Berrah</font><br>
+                  University of Connecticut
+                </p>
+	      </center>
+	    </div>
+
+	    <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://ultrafast.stanford.edu/people/david-reis-0" target="_blank"> 
+                  <img src="img/lecturers/David-Reis.jpeg" alt="David Reis"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">David Reis</font><br>
+                  SLAC National Accelerator Labroatory
+		</p>
+	      </center>
+	    </div>
+
+
+
+ <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://thompsonlab.science" target="_blank"> 
+                  <img src="img/lecturers/michaelthompson.jpg" alt="Mariano Trigo"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">Michael C. Thompson</font><br>
+                  University of California, Merced
+		</p>
+	      </center>
+	    </div>
+
+ <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://lsa.umich.edu/chem/people/faculty/rsension.html" target="_blank"> 
+                  <img src="img/lecturers/Roseanne.jpg" alt="Roseanne Sension"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">Roseanne Sension</font><br>
+                  University of Michigan
+		</p>
+	      </center>
+	    </div>
+
+
+
+
+
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://desy-theory.cfel.de/team/senior_scientists/dr_ludger_inhester/" target="_blank">
+                  <img src="img/lecturers/Ludger.jpg" alt="Ludger Inhester" width= 250  class="img-fluid">
+                </a>
+                <p>
+	          <font size="5">Ludger Inhester</font><br>
+                  Center for Free-Electron Laser Science
+                </p>
+	      </center>
+	    </div>
+
+	
+	 <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://profiles.stanford.edu/benjamin-ofori-okai/" target="_blank">
+                  <img src="img/lecturers/Ben.jpeg" alt="Benjamin Ofori Okai" width= 250  class="img-fluid">
+                </a>
+                <p>
+	          <font size="5">Benjamin Ofori Okai</font><br>
+                  SLAC National Accelerator Laboratory
+                </p>
+	      </center>
+	    </div>
+	
+	
+	 <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://profiles.stanford.edu/giacomo-coslovich" target="_blank"> 
+                  <img src="img/lecturers/giacomo.jpeg" alt="Giacomo Coslovich"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">Giacomo Coslovich</font><br>
+                  SLAC National Accelerator Labroatory
+		</p>
+	      </center>
+	    </div>
+	
+	
+	 <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://profiles.stanford.edu/yanwen-sun" target="_blank"> 
+                  <img src="img/lecturers/yanwen.jpeg" alt="Yanwen Sun"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">Yanwen Sun</font><br>
+                  SLAC National Accelerator Labroatory
+		</p>
+	      </center>
+	    </div>
+	
+	
+	
+	
+	 <div class="col-lg-4 col-md-6 col-sm-12">
+	      <center>
+	        <a href="https://profiles.stanford.edu/tim-van-driel" target="_blank"> 
+                  <img src="img/lecturers/tim.jpg" alt="Tim B van Driel"  width= 250 class="img-fluid">
+                </a>
+	        <p>
+	          <font size="5">Tim B van Driel</font><br>
+                  SLAC National Accelerator Labroatory
+		</p>
+	      </center>
+	    </div>
+	
+	
+	
+	
+
+
+
+
+	  </div
+    </section>
+
+
+
+
+ <!--==========================
+      Schedule Section
+    ============================-->
+    <section id="schedule" class="section-with-bg">
+      <div class="container">
+        <div class="section-header">
+          <h2>Summer School Program</h2>
+          <p>The program will be updated periodically.<b> All times refer to U.S. westcoast time.</b></p>
+          <p>All lectures will take place in the <b>Kavli Auditorium</b> 
+        </div>
+
+        <ul class="nav nav-tabs" role="tablist">
+        
+          <li class="nav-item">
+            <a class="nav-link" href="#day-1" role="tab" data-toggle="tab">Mon, June 17</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Tue, June 18</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Wed, June 19</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-4" role="tab" data-toggle="tab">Thu, June 20</a>
+          </li>
+	</ul>
+
+        <div class="tab-content row justify-content-center">
+          
+                 
+        <!--Schedule Day 1 -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>7:30 - 8:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Breakfast and Badge Pick Up</h4>
+                <p>Kavli Patio, Bldg 51</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>8:00 - 8:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Welcome</h4>
+                <p>Shambhu Ghimire (UXSS Chair), David Reis (Director of PULSE Institute). Mike Dunne (LCLS Diirector), John Sarrao (Lab Director)</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>8:30 - 9:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Introduction to X-ray Free Electron Lasers - 1</h4>
+                <p>Zhirong Haung</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>9:30 - 10:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Fundamentals of X-ray Matter Interactions - 1</h4>
+                <p>Ludger Inhester</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>10:30 - 11:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Coffee Break</h4>
+                <p></p>
+              </div>
+            </div>
+
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>11:00 - 12:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Ultrafast AMO Science Experiments - 1</h4>
+                <p>Nora Berrah</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>12:00 - 1:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Lunch Provided</h4>
+                <p>Redwood Rooms, Bldg 48</p>
+                
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>1:30 - 2:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Mock Proposal Kick Off </h4>
+                <p>UXSS Co-chairs and Mentors</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>2:30 - 5:30 pm</time></div>
+              <div class="col-md-9">
+                <h4> LCLS Tour</h4>
+                <p>Adam Summers</p>
+              </div>
+            </div>
+           
+     
+      <div class="row schedule-item">
+              <div class="col-md-3"><time>5:30 - 7:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Poster Session and Welcome Reception</h4>
+                 <p>Bring your own poster (optional, any size, can be printed at https://www.biotech-productions.com and be delivered to SLAC) </p>
+              </div>
+	    </div>
+     
+     
+          
+          </div>
+          
+        <!-- End Schdule Day 1 -->
+
+        <!--Schedule Day 2 -->
+
+        <div role="tabpanel" class="col-lg-9 tab-pane fade" id="day-2">          
+
+          <div class="row schedule-item">
+              <div class="col-md-3"><time>7:30 - 8:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Breakfast</h4>
+                <p>Kavli Patio</p>
+              </div>
+           </div>
+
+           <div class="row schedule-item">
+              <div class="col-md-3"><time>8:00 - 9:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Ultrafast Chemistry-1</h4>
+                <p>Roseanne Sension</p>
+              </div>
+           </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>9:00 - 10:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Structural Biology - 1</h4>
+                <p>Michael C. Thompson</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>10:00 - 10:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Coffee Break</h4>
+                <p></p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>10:30 - 11:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Introduction to X-ray Free-Electron Lasers -2</h4>
+		<p>Zhirong Haung</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>11:30 - 12:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Condensed Matter Physics- 1</h4>
+                <p>David Reis</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>12:30 - 2:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Lunch provided </h4>
+                 <p>Redwood Room Bldg 48</p>
+               </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>2:00 - 3:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Fundamental of X-ray Matter Interactions -2</h4>
+                <p>Ludger Inhester</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>3:00 - 4:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>LCLS Technical Talks </h4>
+                <p>Giacomo Coslovich and Tim B van Driel</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>4:00 - 6:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Mock Proposal</h4>
+                <p></p>
+              </div>
+            </div>
+           </div>
+            
+            
+        <!-- End Schdule Day 2 -->
+
+        <!--Schedule Day 3 -->
+        
+ <div role="tabpanel" class="col-lg-9 tab-pane fade" id="day-3">          
+
+          <div class="row schedule-item">
+              <div class="col-md-3"><time>7:30 - 8:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Breakfast</h4>
+                <p>Kavli Patio</p>
+              </div>
+           </div>
+
+           <div class="row schedule-item">
+              <div class="col-md-3"><time>8:00 - 9:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Ultrafast AMO Science Experiments -2</h4>
+                <p>Nora Berrah</p>
+              </div>
+           </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>9:00 - 10:00 am</time></div>
+              <div class="col-md-9">
+                <h4>High-Energy Density Science</h4>
+                <p>Benjamin K. Ofori-Okai</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>10:00 - 10:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Coffee Break</h4>
+                <p></p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>10:30 - 11:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Condensed Matter Physics -2</h4>
+		<p>David Reis</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>11:30 - 12:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>LCLS Technical Talk</h4>
+                <p>Yanwen Sun</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>12:00 - 1:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Lunch provided </h4>
+                 <p>Redwood Rooms, Bldg 48</p>
+               </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>1:30 - 4:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Mock Proposal</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>4:30 - 9:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>  </h4>
+                <p>Excursion to San Francisco: California HORNBLOWER cruise</p>
+              </div>
+            </div>
+           </div>
+
+
+          
+        <!-- End Schdule Day 3 -->
+        
+        
+        
+        <div role="tabpanel" class="col-lg-9 tab-pane fade" id="day-4">          
+
+          <div class="row schedule-item">
+              <div class="col-md-3"><time>7:30 - 8:00 am</time></div>
+              <div class="col-md-9">
+                <h4>Breakfast</h4>
+                <p>Redwood Rooms, Bldg 48</p>
+              </div>
+           </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>8:00 - 10:30 am</time></div>
+              <div class="col-md-9">
+                <h4>Final Mock Proposal Work </h4>
+		<p></p>
+              </div>
+            </div>
+
+
+          <div class="row schedule-item">
+              <div class="col-md-3"><time>10:30 - 11:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Coffee Break </h4>
+		<p>Submit Posters to Print</p>
+              </div>
+            </div>
+
+
+           <div class="row schedule-item">
+              <div class="col-md-3"><time>11:00 - 12:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Ultrafast Chemistry -2</h4>
+                <p>Roseanne Sension</p>
+              </div>
+           </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>12:00 - 1:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Structural Biology -2</h4>
+                <p>Michael C. Thompson</p>
+              </div>
+            </div>
+            
+                 <div class="row schedule-item">
+              <div class="col-md-3"><time>1:00 - 2:30 pm</time></div>
+              <div class="col-md-9">
+                <h4>Lunch </h4>
+		<p>Redwood Room Bldg 48</p>
+              </div>
+            </div> 
+          
+                
+                             
+
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>2:30 - 3:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Poster Display Setup</h4>
+                <p></p>
+              </div>
+            </div>
+            
+          <div class="row schedule-item">
+              <div class="col-md-3"><time>3:00 - 6:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Presentation of Posters</h4>
+                <p>Evaluation by Judges</p>
+              </div>
+            </div>      
+            
+           
+            
+            
+            
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>6:00 - 9:00 pm</time></div>
+              <div class="col-md-9">
+                <h4>Closing Remarks, Prize, and BBQ Celebration </h4>
+                <p></p>
+              </div>
+            </div>
+           </div>
+           </div>
+            
+     
+         
+       
+
+         
+        <!-- End Schdule Day 4 -->
+
+    	 </div>
+
+    	</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--==========================
+      Sponsors Section
+    ============================-->
+    <section id="supporters" class="section-with-bg">
+
+      <div class="container">
+        <div class="section-header">
+          <h2>Sponsors</h2>
+        </div>
+
+        <div class="row no-gutters supporters-wrap clearfix">
+
+         <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://ultrafast.stanford.edu/" target="_blank">
+			    <img src="img/supporters/PULSE_Logo_2_Line.jpg" class="img-fluid" alt="">
+			  </a>
+            </div>
+          </div>          
+
+
+         <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.energy.gov/science/office-science" target="_blank">
+			    <img src="img/supporters/DOE.jpg" class="img-fluid" alt="">
+			  </a>
+            </div>
+          </div>
+          
+         <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.thorlabs.com" target="_blank">
+                <img src="img/supporters/ThorlabsRed.jpg" class="img-fluid" alt="">
+              </a>
+            </div>
+          </div>
+
+  <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://lightcon.com/" target="_blank">
+                <img src="img/supporters/LC_logo_RGB.jpg" class="img-fluid" alt="">
+              </a>
+            </div>
+          </div>
+
+
+<div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://lightcon.com/" target="_blank">
+                <img src="img/supporters/LC_logo_RGB.jpg" class="img-fluid" alt="">
+              </a>
+            </div>
+          </div>
+
+
+
+
+
+
+       <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.agilent.com" target="_blank">
+                <img src="img/supporters/Agilent.png" class="img-fluid" alt="">
+              </a>
+            </div>
+          </div>
+</div>
+       </div>
+
+
+
+
+
+    <!--==========================
+      Buy Ticket Section
+    ============================-->
+    
+    <section id="buy-tickets" class="section">
+      <div class="container">
+
+        <div class="section-header">
+          <h2>Registration is Now Closed</h2>
+        </div>
+      <!-- <p><center>Registration for UXSS 2022 will open Feb 15th.</center></p> 
+        --> 
+   
+        
+        <div class="text-center">
+          <a href="https://docs.google.com/forms/d/1sQNUR4RIDW60OHHe22TEkWusPVVaLiIzrKlAPWweYpQ/edit" target="_blank" class="about-btn scrollto">UXSS-2024 is Full</a>
+        </div>
+        
+        
+
+      </div>
+    </section>
+
+    <!--==========================
+      Contact Section
+    ============================-->
+    <section id="contact" class="section-with-bg">
+
+      <div class="container">
+
+        <div class="section-header">
+          <h2>Contact Us</h2>
+        </div>
+        <p>Please contact Stanford PULSE Institute if you need assistance. Please include your name, 
+        email, institution, and question with your message and send it to 
+        <a href="mailto:UXSS.PULSE@gmail.com">UXSS.PULSE@gmail.com</a>.</p>
+
+      </div>
+    </section><!-- #contact -->
+  </main>
+
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4"></div>
+          <div class="col-lg-4">
+          <img src="img/UXSS_2024_logo.png" alt="TheEvenet" class="img-fluid">
+          </div>
+          <div class="col-lg-4"></div>
+
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>UXSS2024</strong>. All Rights Reserved
+      </div>
+      
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>
